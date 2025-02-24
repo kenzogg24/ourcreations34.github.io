@@ -3,7 +3,7 @@ body {
     padding: 0;
     height: 100vh;
     background-image: url('bg2.jpg');
-    background-size: cover; /* Mengatur gambar agar menutupi seluruh latar belakang */
+    background-size: 70%; /* Mengatur gambar agar menutupi seluruh latar belakang */
     background-position: center; /* Memusatkan gambar */
     background-repeat: no-repeat; /* Menghindari pengulangan gambar */
 }
